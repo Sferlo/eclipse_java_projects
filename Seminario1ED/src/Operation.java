@@ -1,5 +1,12 @@
 
 public class Operation {
+	
+	/**
+	 * Metodo principal que llama a los demás métodos sacando sus
+	 * resultados por consola
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args){
 		System.out.println(Recursivo2(15,2));
 	}
